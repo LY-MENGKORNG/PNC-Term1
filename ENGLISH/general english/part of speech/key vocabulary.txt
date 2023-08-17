@@ -1,0 +1,9 @@
+* គ្រប់ file ត្រូវ​ save : Extension "html"ឬ​ "htm"
+* គ្រប់ Tage, Attribute, Entity : សរសេរ​មិនប្រកាន់អក្សរតូចធំឡើយ។
+* ពេលបើក Tag ចង់បិទក៏បាន​ មិនបិទក៏បាន។
+	Eg : <center>.....ឬ <center>....</center>
+*HTML មានបីប្លុក: 
+	-Format : Text, Image, Sound, Video, Link ។
+	-Form : Input/Ouput ។
+	-Layout : Frame, Table​​ ។
+* <!---Statement--->	: Comment
